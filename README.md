@@ -10,4 +10,4 @@ During my free time, I create tools and software to improve the user experience 
 ### 📫 Reach me on 
 ![Twitter](https://img.shields.io/twitter/follow/moustachauve?style=social)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cgagnier/)
