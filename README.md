@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there 
+I am a Canadian Programmer. 
+Professionally, I am a programmer with a lot of experience with high traffic website.
+During my free time, I create tools and software to improve the user experience of others and myself.
 
-<!--
-**Moustachauve/Moustachauve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 I’m currently working on the popular [Cookie-Editor](https://cookie-editor.cgagnier.ca/) browser extension 🍪
+- 📱 Will be implementing a new Home Assistant integration for TechnoVE, a smart EV charger ⚡ 
+- 💪 Currently Working at Mindgeek.
 
-Here are some ideas to get you started:
+### 📫 Reach me on 
+![Twitter](https://img.shields.io/twitter/follow/moustachauve?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
