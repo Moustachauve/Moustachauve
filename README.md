@@ -5,7 +5,7 @@ During my free time, I create tools and software to improve the user experience 
 
 - 🔧 I’m currently working on the popular [Cookie-Editor](https://cookie-editor.cgagnier.ca/) browser extension 🍪
 - 🔧 I’m currently working on the [WLED](https://github.com/Aircoookie/WLED/) app for [Android](https://github.com/Moustachauve/WLED-Native-Android) and [iOS](https://github.com/Moustachauve/WLED-Native-iOS) 📱
--  Planning to implement a new Home Assistant integration for TechnoVE, a smart EV charger ⚡ 
+- 🧠 Planning to implement a new Home Assistant integration for TechnoVE, a smart EV charger ⚡ 
 - 💪 Currently Working at Google.
 
 ### 📫 Reach me on 
