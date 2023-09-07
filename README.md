@@ -9,7 +9,7 @@ During my free time, I create tools and software to improve the user experience 
 - 💪 Currently Working at Google.
 
 #### Disclaimer
-The projects in my personal Github account are not an official Google projects. They are not supported by Google and Google specifically disclaims all warranties as to their quality, merchantability, or fitness for a particular purpose.
+The projects in my personal Github account are not official Google projects. They are not supported by Google and Google specifically disclaims all warranties as to their quality, merchantability, or fitness for a particular purpose.
 
 ### 📫 Reach me on 
 ![Twitter](https://img.shields.io/twitter/follow/moustachauve?style=social)
