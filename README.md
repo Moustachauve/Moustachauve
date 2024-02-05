@@ -3,9 +3,9 @@ I am a Canadian Programmer.
 Professionally, I am a programmer with a lot of experience with high traffic website.
 During my free time, I create tools and software to improve the user experience of others and myself.
 
-- 🔧 I’m currently working on the popular [Cookie-Editor](https://cookie-editor.cgagnier.ca/) browser extension 🍪
-- 🔧 I’m currently working on the [WLED](https://github.com/Aircoookie/WLED/) app for [Android](https://github.com/Moustachauve/WLED-Native-Android) and [iOS](https://github.com/Moustachauve/WLED-Native-iOS) 📱
-- 🧠 Planning to implement a new Home Assistant integration for TechnoVE, a smart EV charger ⚡ 
+- 🔧 Currently Working on the popular [Cookie-Editor](https://cookie-editor.cgagnier.ca/) browser extension 🍪
+- 🔧 Currently Working on the [WLED](https://github.com/Aircoookie/WLED/) app for [Android](https://github.com/Moustachauve/WLED-Native-Android) and [iOS](https://github.com/Moustachauve/WLED-Native-iOS) 📱
+- 🧠 Currently Working on [PyTechnoVE](https://github.com/Moustachauve/pytechnove), a python library for for TechnoVE, a smart EV charger. It is used in an official Home Assistant integration! ⚡ 
 - 💪 Currently Working at Google.
 
 #### Disclaimer
